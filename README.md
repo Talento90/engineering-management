@@ -1508,6 +1508,7 @@ See also my [entrepreneurship-resource repo](https://github.com/charlax/entrepre
   - Developer Personas
   - Common Pitfalls When Designing Metrics
   - Their example: Developer Build Time (DBT), Post-Merge CI Duration, CI Determinism, Code Reviewer Response Time.
+- [The Napoleon Technique: Postponing Things to Increase Productivity](https://effectiviology.com/napoleon/)
 
 ### Project management
 
