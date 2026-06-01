@@ -891,7 +891,7 @@ Specifics about hiring engineering managers:
 
 - [How GitHub does take home technical interviews](https://github.blog/2022-03-31-how-github-does-take-home-technical-interviews/)
 - [guardian/coding-exercises](https://github.com/guardian/coding-exercises)
-- [Take-home vs whiteboard coding: The problem is bad interviews](https://andrewrondeau.com/blog/2020/04/take-home-vs-whiteboard-coding-the-problem-is-bad-interviews)
+- [Take-home vs whiteboard coding: The problem is bad interviews](https://blog.andrewrondeau.com/interviewing/software/careers/2020/08/04/take-home-vs-whiteboard-coding-the-problem-is-bad-interviews.html)
 - [Live Coding Interviews](https://garrettdimon.com/journal/posts/live-coding-interviews) describes ways in which a live coding interview won't give you accurate signals.
 
 #### Hiring: quotes
